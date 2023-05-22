@@ -10,7 +10,7 @@ If you use the codes, please cite our paper. Thanks!
 
 Python = 3.7
 
-Tensorflow = 2
+Tensorflow = 2.0
 
 # To run the experiments:
 
